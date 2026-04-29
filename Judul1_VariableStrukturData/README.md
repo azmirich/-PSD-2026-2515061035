@@ -56,7 +56,9 @@ OUTPUT
 <img width="335" height="125" alt="image" src="https://github.com/user-attachments/assets/93340d00-c186-4959-a3ab-9270d5970c71" />
 
 <img width="314" height="191" alt="image" src="https://github.com/user-attachments/assets/a345573b-3e4e-41b8-9e6e-cc3842c25763" />
+Program Selesai
 
+Link Video Youtube : https://youtu.be/Wl86ZDrvrJY?si=kM_wGJVFmJSToh0x
 <img width="325" height="139" alt="image" src="https://github.com/user-attachments/assets/08937603-e294-4001-bf70-32ba2d93117b" />
 Diminta untuk memasukan 5 nilai mahasiswa (0-4)
 
