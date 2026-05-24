@@ -106,4 +106,4 @@ Output saat memilih opsi ke 5, 6, dan 7
 <img width="270" height="560" alt="image" src="https://github.com/user-attachments/assets/f1d36cd2-7948-4262-8a86-2743787739fe" />
 
 
-Link Video Penjelasan : 
+Link Video Penjelasan : https://youtu.be/vPav1TbF5uY
