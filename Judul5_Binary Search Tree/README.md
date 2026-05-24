@@ -90,12 +90,15 @@ Untuk memastikan fungsi main() hanya dijalankan jika file ini dieksekusi/dijalan
 
 <img width="330" height="579" alt="image" src="https://github.com/user-attachments/assets/6a185ebf-4842-4d73-8c35-be8fc924f07d" />
 
+Output saat memilih opsi ke 1.
 
 <img width="286" height="567" alt="image" src="https://github.com/user-attachments/assets/3e40556e-2628-47de-87a2-c5e16fa9d89b" />
 
+Output saat memilih opsi ke 2, 3, dan 4
 
 <img width="270" height="560" alt="image" src="https://github.com/user-attachments/assets/f1d36cd2-7948-4262-8a86-2743787739fe" />
 
+Output saat memilih opsi ke 5, 6, dan 7
 
 
-Video Penjelasan : 
+Link Video Penjelasan : 
