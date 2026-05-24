@@ -13,7 +13,7 @@ Sebuah program sederhana berbasis Pythonuntuk mengelola kamar kosan menggunakan 
 
 ## SOURCE CODE :
 
-## INPUT
+# INPUT
 ### 1. Class `Node`
 
 ```python
