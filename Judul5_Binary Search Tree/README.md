@@ -1,42 +1,13 @@
-# 🏠 Manajemen Kamar Kosan — Binary Search Tree (BST)
+# Sistem Manajemen Kamar Kosan
 
-> Program berbasis **Python** untuk mengelola kamar kosan menggunakan struktur data **Binary Search Tree (BST)**.
-
----
-
-## 📌 Daftar Isi
-- [Apa itu BST?](#-apa-itu-bst)
-- [Struktur Program](#-struktur-program)
-- [Penjelasan Kode Per Bagian](#-penjelasan-kode-per-bagian)
-  - [Class Node](#1-class-node)
-  - [Class BSTDasar — Insert](#2-class-bstdasar--fungsi-insert)
-  - [Class BSTDasar — Search](#3-class-bstdasar--fungsi-search)
-  - [Class BSTDasar — Traversal](#4-class-bstdasar--fungsi-traversal)
-  - [Class BSTDasar — Count](#5-class-bstdasar--fungsi-count_nodes)
-  - [Fungsi main()](#6-fungsi-main--menu-utama)
-- [Cara Menjalankan](#-cara-menjalankan)
-- [Contoh Penggunaan](#-contoh-penggunaan)
-- [Ringkasan Fitur](#-ringkasan-fitur)
+Sebuah program sederhana berbasis Pythonuntuk mengelola kamar kosan menggunakan struktur data Binary Search Tree (BST).
 
 ---
-
-## 🌳 Apa itu BST?
 
 **Binary Search Tree (BST)** adalah struktur data pohon biner di mana:
 - Setiap **node** memiliki maksimal **2 anak** (kiri dan kanan).
 - Node di **kiri** selalu memiliki nilai **lebih kecil** dari node induknya.
 - Node di **kanan** selalu memiliki nilai **lebih besar** dari node induknya.
-
-```
-Contoh BST dengan kamar: 10, 5, 15, 3, 7
-
-        10
-       /  \
-      5    15
-     / \
-    3   7
-```
-
 ---
 
 ## 🗂 Struktur Program
@@ -77,11 +48,7 @@ class Node:
 - `self.left = None` → Awalnya tidak punya anak kiri.
 - `self.right = None` → Awalnya tidak punya anak kanan.
 
-> 💡 **Analoginya:** Bayangkan setiap Node seperti kotak yang isinya nomor kamar, dan punya dua tangan — tangan kiri dan kanan — untuk menunjuk ke kamar berikutnya.
-
----
-
-### 2. Class `BSTDasar` — Fungsi Insert
+### 2. Class `BSTDasar`
 
 ```python
 class BSTDasar:
