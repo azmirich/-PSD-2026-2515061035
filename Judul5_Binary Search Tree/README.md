@@ -82,20 +82,17 @@ elif pilih == 7: menunjukkan program selesai dan keluar dari program
 
 
 <img width="225" height="55" alt="image" src="https://github.com/user-attachments/assets/5290fa4b-d0df-40f6-9dcf-5f2adc84ad67" />
+
 Untuk memastikan fungsi main() hanya dijalankan jika file ini dieksekusi/dijalankan.
 
 
 ## OUTPUT
 
 <img width="330" height="579" alt="image" src="https://github.com/user-attachments/assets/6a185ebf-4842-4d73-8c35-be8fc924f07d" />
+
 <img width="286" height="567" alt="image" src="https://github.com/user-attachments/assets/3e40556e-2628-47de-87a2-c5e16fa9d89b" />
+
 <img width="270" height="560" alt="image" src="https://github.com/user-attachments/assets/f1d36cd2-7948-4262-8a86-2743787739fe" />
 
 
-
-
-
-
-
-
-
+Video Penjelasan : 
