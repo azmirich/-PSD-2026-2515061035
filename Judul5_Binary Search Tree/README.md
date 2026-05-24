@@ -22,5 +22,16 @@ Line ke 4 digunakan untuk menyimpan nomor kamar sebgai nilai node
 Pada line ke 5 dan ke 6 itu ialah sebuah fungsi pointer untuk ke anak kiri dan kanan
 
 ### Class `BSTDasar`
+<img width="465" height="295" alt="image" src="https://github.com/user-attachments/assets/71ce89f9-ff62-4a79-b08d-d3c711293d45" />
+Pada line 9 Terdapat deklarasi sebuah kelas bernama BSTDasar sebagai inti dari struktur Binary Search Tree.
+self.root = None Menunjukkan Tree BST dimulai dalam keadaan kosong
+insert_node(root, key) ialah Fungsi untuk mencari posisi tepat untuk nomor kamar baru.
+if root is None  Posisi kosong untuk membuat node baru
+if key < root.key : Jika nomor kamar lebih kecil, telusuri ke kiri.
+elif key > root.key : Jika lebih besar, telusuri ke kanan.
+insert(key) ialah Fungsi yang memanggil insert_node mulai dari akar pohon.
+
+## Fungsi Search
+<img width="372" height="217" alt="image" src="https://github.com/user-attachments/assets/45bb1355-9971-4d07-bcd9-be2923bc6854" />
 
 
