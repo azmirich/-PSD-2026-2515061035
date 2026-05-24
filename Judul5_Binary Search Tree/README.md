@@ -69,8 +69,8 @@ Berisi perintah untuk membuat tree baru kosong (bst = BSTDasar()) dan berisi men
 Dibawah menu output ada fungsi untuk membaca input user dan memaksa user memasukan intut berbentuk angka
 
 <img width="590" height="609" alt="image" src="https://github.com/user-attachments/assets/c99c2b63-5aa6-416a-951e-2c3e522a1b33" />
+<img width="593" height="150" alt="image" src="https://github.com/user-attachments/assets/33f05e35-40b1-4571-8c0e-46a7d92ad059" />
 
-<img width="564" height="140" alt="image" src="https://github.com/user-attachments/assets/8ff87ebd-48a6-4b7a-8db0-7e7150296b69" />
 
 
 
