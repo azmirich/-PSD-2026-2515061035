@@ -10,27 +10,10 @@ Sebuah program sederhana berbasis Pythonuntuk mengelola kamar kosan menggunakan 
 - Node di **kanan** selalu memiliki nilai **lebih besar** dari node induknya.
 ---
 
-## 🗂 Struktur Program
 
-```
-BST_Kosan/
-│
-├── bst_kosan.py       ← File utama program
-└── README.md          ← Dokumentasi ini
-```
+## SOURCE CODE :
 
-Program terdiri dari **2 class** dan **1 fungsi utama**:
-
-| Komponen     | Fungsi                                     |
-|--------------|--------------------------------------------|
-| `Node`       | Cetak biru (blueprint) untuk tiap kamar    |
-| `BSTDasar`   | Logika inti BST (insert, search, traversal)|
-| `main()`     | Antarmuka menu untuk pengguna              |
-
----
-
-## 🔍 Penjelasan Kode Per Bagian
-
+## INPUT
 ### 1. Class `Node`
 
 ```python
@@ -269,18 +252,3 @@ Daftar Kamar (Inorder): 5 10
 
 ---
 
-## 🧩 Ringkasan Fitur
-
-| Menu | Fungsi              | Metode BST        | Kompleksitas  |
-|------|---------------------|-------------------|---------------|
-| 1    | Tambah kamar        | `insert()`        | O(log n)      |
-| 2    | Cek kamar tersedia  | `search()`        | O(log n)      |
-| 3    | Daftar urut (naik)  | `inorder()`       | O(n)          |
-| 4    | Daftar preorder     | `preorder()`      | O(n)          |
-| 5    | Daftar postorder    | `postorder()`     | O(n)          |
-| 6    | Hitung total kamar  | `count_nodes()`   | O(n)          |
-| 7    | Keluar              | —                 | O(1)          |
-
----
-
-> **Dibuat sebagai implementasi struktur data Binary Search Tree (BST) dalam Python.**
