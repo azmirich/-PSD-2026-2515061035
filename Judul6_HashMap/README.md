@@ -120,4 +120,4 @@ OUTPUT
 <img width="517" height="320" alt="image" src="https://github.com/user-attachments/assets/3d2861ad-5545-40c9-a29f-b7c49a1dd9f7" />
 
 
-Video Penjelasan : 
+Video Penjelasan : https://youtu.be/hAf7bGE3c6s
